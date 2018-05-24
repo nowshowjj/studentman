@@ -1,0 +1,90 @@
+button.submit {
+  float: right;
+  background-color: grey;
+}
+
+form#cms {
+  margin-top: 50px;
+}
+
+#cms textarea {
+  resize: none;
+}
+
+.card-header button.delete,
+button.edit {
+  float: right;
+  margin: 5px;
+}
+
+.author-container {
+  margin-top: 50px;
+  color: white;
+}
+
+.author-list {
+  margin-top: 25px;
+}
+
+.blog-container {
+  margin-top: 30px;
+}
+
+.blog {
+  margin-top: 30px;
+}
+
+.hidden {
+  display: none;
+}
+
+#author-name {
+  width: 100%;
+  height: 35px;
+  margin-top: 5px;
+}
+
+.top-30 {
+  margin-top: 30px;
+}
+
+body {
+  background-image: url("chalkboard.jpg");
+}
+
+.table {
+  background-color: grey;
+}
+
+h2 {
+  color: blue;
+}
+
+.btn-success {
+  background-color: green;
+}
+
+a.goto {
+  color: white;
+}
+
+a.create-student {
+  color: white;
+}
+
+.pre {
+  color: white;
+}
+
+.loginForm{
+  background-color: #fff;
+  margin-top: 50px;
+  padding:25px;
+}
+.sign-in h2{
+  color: #fff;
+  text-align: center;
+}
+.btn-secondary{
+  background-color: grey;
+}
